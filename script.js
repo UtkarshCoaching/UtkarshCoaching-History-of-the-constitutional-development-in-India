@@ -543,11 +543,6 @@ const questions = [
 ];
 
 
-
-
-
-
-
 let currentQuestionIndex = 0;
 let score = 0;
 let correctCount = 0;
